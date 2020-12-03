@@ -1,0 +1,26 @@
+.sidebarChannel:hover > h3 {
+	color: white;
+	background-color: #40464b;
+}
+
+.sidebarChannel > h3 {
+	display: flex;
+	padding-left: 15px;
+	align-items: center;
+	background-color: #2f3135;
+	color: gray;
+	cursor: pointer;
+}
+
+.sidebarChannel__hash {
+	font-size: large;
+	padding: 8px;
+}
+
+.sidebarChannel__hash {
+	font-size: 30px;
+}
+
+.sidebarChannel__hash:hover {
+	filter: drop-shadow(0 0 5px orangered);
+}
